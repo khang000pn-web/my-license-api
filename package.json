@@ -1,0 +1,28 @@
+{
+  "name": "fabricpremium",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.136.1"
+  }
+}{
+  "name": "fabricpremium",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.136.1"
+  }
+}{
+  "name": "fabricpremium",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.136.1"
+  }
+}
